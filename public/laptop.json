@@ -1,0 +1,94 @@
+[
+    {
+      "name": "Laptop 1",
+      "price": 999,
+      "picture": "images/laptop1.jpg",
+      "RAM": "16 GB",
+      "SSD": "512 GB",
+      "HDD": "1 TB",
+      "screenSize": "15.6 inches",
+      "OS": "Windows 10"
+    },
+    {
+      "name": "Laptop 2",
+      "price": 799,
+      "picture": "images/laptop2.jpg",
+      "RAM": "8 GB",
+      "SSD": "256 GB",
+      "HDD": "1 TB",
+      "screenSize": "13.3 inches",
+      "OS": "macOS"
+    },
+    {
+      "name": "Laptop 3",
+      "price": 1299,
+      "picture": "images/laptop3.jpg",
+      "RAM": "8 GB",
+      "SSD": "1 TB",
+      "HDD": "2 TB",
+      "screenSize": "17.3 inches",
+      "OS": "macOS"
+    },
+    {
+      "name": "Laptop 4",
+      "price": 599,
+      "picture": "images/laptop4.jpg",
+      "RAM": "7 GB",
+      "SSD": "128 GB",
+      "HDD": "5 TB",
+      "screenSize": "14 inches",
+      "OS": "Windows 10"
+    },
+    {
+      "name": "Laptop 5",
+      "price": 899,
+      "picture": "images/laptop5.jpg",
+      "RAM": "3 GB",
+      "SSD": "512 GB",
+      "HDD": "2 TB",
+      "screenSize": "15.6 inches",
+      "OS": "macOS"
+    },
+    {
+      "name": "Laptop 6",
+      "price": 1399,
+      "picture": "images/laptop6.jpg",
+      "RAM": "2 GB",
+      "SSD": "1 TB",
+      "HDD": "3 TB",
+      "screenSize": "15 inches",
+      "OS": "Windows 11"
+    },
+    {
+      "name": "Laptop 7",
+      "price": 1199,
+      "picture": "images/laptop7.jpg",
+      "RAM": "2 GB",
+      "SSD": "1 TB",
+      "HDD": "2 TB",
+      "screenSize": "17 inches",
+      "OS": "Windows 10"
+    },
+    {
+      "name": "Laptop 8",
+      "price": 999,
+      "picture": "/images/laptop8.jpg",
+      "RAM": "1 GB",
+      "SSD": "256 GB",
+      "HDD": "1 TB",
+      "screenSize": "15.6 inches",
+      "OS": "macOS"
+    },
+    {
+      "name": "Laptop 9",
+      "price": 699,
+      "picture": "images/laptop9.jpg",
+      "RAM": "4 GB",
+      "SSD": "256 GB",
+      "HDD": "4 TB",
+      "screenSize": "14 inches",
+      "OS": "Windows 10"
+    }
+   
+]
+  
